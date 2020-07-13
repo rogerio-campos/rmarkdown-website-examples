@@ -1,8 +1,8 @@
 ---
-title: "About This Website"
+title: "Sobre o projeto Shiny"
 ---
 
-More about this website.
+Aprenda mais sobre meu site.
 
 ```{r, child="_sessioninfo.Rmd"}
 ```

@@ -1,8 +1,8 @@
 ---
-title: "My Website"
+title: "Sobre Shiny"
 ---
 
-Hello, Website!
+Aprenda estatistica de forma interativa!
 
 ```{r, child="_sessioninfo.Rmd"}
 ```

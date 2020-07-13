@@ -1,6 +1,6 @@
-name: "my-website"
+name: "Rogerio Campos"
 navbar:
-  title: "My Website"
+  title: "Bio Estatistica"
   left:
     - text: "Home"
       href: index.html
